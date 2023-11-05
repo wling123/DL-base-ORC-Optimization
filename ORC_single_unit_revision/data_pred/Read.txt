@@ -1,0 +1,2 @@
+sim_field is 10000 length simulated data when the inputs are the field type. 
+The header is ['brine_in_p', 'brine_in_t', 'brine_out_q', 'R134aPumpSpeed', 'AmbientTemp']
